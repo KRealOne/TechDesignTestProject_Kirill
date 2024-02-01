@@ -29,6 +29,14 @@ MonoBehaviour:
     _metadata:
       _runtime: []
       _editor: []
+  - _cultureName: en
+    _systemLanguage: 10
+    _nativeName: English
+    _collectionProviders:
+    - rid: 847118353522753557
+    _metadata:
+      _runtime: []
+      _editor: []
   _textKeyCollections:
   - {fileID: 11400000, guid: 5cdefadf381f2fc49a8186ed2446b3cb, type: 2}
   _assetKeyCollections: []
@@ -66,3 +74,7 @@ MonoBehaviour:
       type: {class: KnotAssetCollectionProvider, ns: Knot.Localization.Data, asm: Knot.Localization}
       data:
         _collection: {fileID: 11400000, guid: 55acb4f855cb88b4f92ec595409b597e, type: 2}
+    - rid: 847118353522753557
+      type: {class: KnotAssetCollectionProvider, ns: Knot.Localization.Data, asm: Knot.Localization}
+      data:
+        _collection: {fileID: 11400000, guid: dbd077e05ceab444393608eb26751e5e, type: 2}
